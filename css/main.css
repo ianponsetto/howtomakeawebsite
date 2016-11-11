@@ -146,7 +146,7 @@ PAGE: CONTACT
 .contact-info {
   list-style: none;
   padding: 0;
-  margin: 0;
+  margin-top: 10px;
   font-size: 0.9em;
 }
 
@@ -169,6 +169,18 @@ PAGE: CONTACT
 
 .contact-info li.twitter a {
   background-image: url('../img/twitter.png');
+}
+
+
+/*****************************
+PAGE: RESUME
+******************************/
+
+h4 {
+  margin: 0;
+  font-family: 'Changa One', sans-serif;
+  font-weight: normal;
+  font-size: 1.5em;
 }
 
 
